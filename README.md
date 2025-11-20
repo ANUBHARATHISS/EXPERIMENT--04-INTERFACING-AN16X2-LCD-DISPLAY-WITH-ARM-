@@ -170,7 +170,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 ![image](https://user-images.githubusercontent.com/36288975/233856904-99eb708a-c907-4595-9025-c9dbd89b8879.png)
 
 ## CIRCUIT DIAGRAM 
-![image](https://user-images.githubusercontent.com/36288975/233857974-bda6200e-4f88-4e7b-b189-4da80210fa23.png)
+<img width="1262" height="809" alt="image" src="https://github.com/user-attachments/assets/3b39dc28-9227-4142-bfcb-8de9487bca2a" />
+
 
 
 ## STM 32 CUBE PROGRAM :
@@ -274,11 +275,11 @@ int main(void)
 
 
 ## Output screen shots of proteus  :
- 
+
  
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- 
- 
+<img width="1133" height="884" alt="image" src="https://github.com/user-attachments/assets/f1352800-c3cf-4e40-ab51-31f7df3b4dc4" />
+
 ## Result :
 Interfacing a lcd display with ARM microcontroller are simulated in proteus and the results are verified.
 
